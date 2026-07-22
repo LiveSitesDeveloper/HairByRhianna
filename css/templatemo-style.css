@@ -277,7 +277,7 @@ h2 {
     margin-left: 10px;
     margin-right: 10px;
 	height: auto;
-	background: #3085a3;
+	background: #D4AF37;
 	text-align: center;
 	cursor: pointer;
 }
@@ -343,7 +343,7 @@ h2 {
 }
 
 .gallery-section {
-  background-color: #99ccff;
+  background-color: #D4AF37;
 }
 
 .gallery-section .title {
@@ -356,7 +356,7 @@ h2 {
 /*---------------*/
 
 figure.effect-julia {
-	background: #2f3238;
+	background: #D4AF37;
 }
 
 figure.effect-julia img {
@@ -381,7 +381,7 @@ figure.effect-julia p {
 	margin: 0 0 0.25em;
 	padding: 0.4em 1em;
 	background: rgba(255,255,255,0.9);
-	color: #2f3238;
+	color: #D4AF37;
 	text-transform: none;
 	font-weight: 500;
 	font-size: 75%;
@@ -435,7 +435,7 @@ figure.effect-julia:hover p {
 
 .gallery-slider .slick-dots li.slick-active, 
 .gallery-slider .slick-dots li:hover {
-    background-color: #3CCDFF;
+    background-color: #D4AF37;
 }
 
 .gallery-slider .slick-dots li {
