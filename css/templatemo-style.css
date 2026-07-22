@@ -98,7 +98,7 @@ h2 {
 }
 
 .navbar a {
-    color: white;
+    color: #D4AF37;
 }
 
 .navbar-brand {
@@ -152,8 +152,8 @@ h2 {
 
 .navbar .navbar-nav .nav-item.selected .nav-link,
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    color: #99FF66;
-    border-bottom: 1px solid #99FF66;
+    color: #FFD700;
+    border-bottom: 1px solid #FFD700;
 }
 
 .cd-slider-nav li.selected a+.circle,
