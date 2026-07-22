@@ -168,12 +168,12 @@ h2 {
 }
 
 .tm-link-white {
-    color: white;
+    color: #e7d5d0;
 }
 
 .tm-link-white:hover,
 .tm-link-white:focus {
-    color: #99FF66;
+    color: #D4AF37;
 }
 
 .cd-hero-slider {
