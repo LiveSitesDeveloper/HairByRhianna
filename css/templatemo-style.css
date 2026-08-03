@@ -131,13 +131,6 @@ h2 {
 }
 
 .circle {
-    position: absolute;
-    left: calc(50% - 10px);
-    bottom: -10px;
-    width: 20px;
-    height: 20px; 
-    background-color: white;
-    border-radius: 50%;
 }
 
 .tm-border-bottom {
