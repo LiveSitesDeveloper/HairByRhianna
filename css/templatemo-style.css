@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-	color: #191970;
+	color: #73c2fb;
 }
 
 p {
@@ -43,7 +43,7 @@ h2 {
 }
 
 .highlight {
-    color: #191970;
+    color: #73c2fb;
 }
 
 .page-container {
@@ -167,7 +167,7 @@ h2 {
 }
 
 .tm-link-white {
-    color: #191970;
+    color: #73c2fb;
 }
 
 .tm-link-white:hover,
