@@ -11,7 +11,7 @@ html, body, .page-container {
 }
 
 title {
-	color: #D4AF37;
+	color: #000000;
 }
 
 body {
@@ -98,7 +98,7 @@ h2 {
 }
 
 .navbar a {
-    color: #D4AF37;
+    color: #000000;
 }
 
 .navbar-brand {
@@ -121,13 +121,13 @@ h2 {
 .navbar .navbar-nav .nav-item .nav-link {
     font-size: 1.5rem;
     padding: 15px 65px;
-    border-bottom: 1px solid #D4AF37;
-	color: #D4AF37;
+    border-bottom: 1px solid #000000;
+	color: #000000;
 }
 
 .nav-item {
     position: relative;
-	color: #D4AF37;
+	color: #000000;
 }
 
 .circle {
@@ -151,7 +151,7 @@ h2 {
 
 .cd-slider-nav li.selected a+.circle,
 .navbar .navbar-nav .nav-item .nav-link:hover+.circle {
-    background-color: #D4AF37;
+    background-color: #000000;
 }
 
 .navbar-toggler-icon {
@@ -172,7 +172,7 @@ h2 {
 
 .tm-link-white:hover,
 .tm-link-white:focus {
-    color: #D4AF37;
+    color: #000000;
 }
 
 .cd-hero-slider {
@@ -270,7 +270,7 @@ h2 {
     margin-left: 10px;
     margin-right: 10px;
 	height: auto;
-	background: #D4AF37;
+	background: #000000;
 	text-align: center;
 	cursor: pointer;
 }
@@ -336,7 +336,7 @@ h2 {
 }
 
 .gallery-section {
-  background-color: #D4AF37;
+  background-color: #000000;
 }
 
 .gallery-section .title {
@@ -349,7 +349,7 @@ h2 {
 /*---------------*/
 
 figure.effect-julia {
-	background: #D4AF37;
+	background: #000000;
 }
 
 figure.effect-julia img {
@@ -374,7 +374,7 @@ figure.effect-julia p {
 	margin: 0 0 0.25em;
 	padding: 0.4em 1em;
 	background: rgba(255,255,255,0.9);
-	color: #D4AF37;
+	color: #000000;
 	text-transform: none;
 	font-weight: 500;
 	font-size: 75%;
@@ -428,7 +428,7 @@ figure.effect-julia:hover p {
 
 .gallery-slider .slick-dots li.slick-active, 
 .gallery-slider .slick-dots li:hover {
-    background-color: #D4AF37;
+    background-color: #000000;
 }
 
 .gallery-slider .slick-dots li {
