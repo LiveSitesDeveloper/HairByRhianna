@@ -18,32 +18,32 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 19px;
     font-weight: 300;
-    color: #b48f7d;
+    color: #000000;
     line-height: 1.5;
 }
 
 a {
-	color: #b48f7d;
+	color: #000000;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
 a:hover {
-	color: #e7d5d0;
+	color: #191970;
 }
 
 p {
     line-height: 1.7;
-	color: #b48f7d;
+	color: #000000;
 }
 
 h2 {
     font-size: 1.8rem;
-	color: #b48f7d;
+	color: #000000;
 }
 
 .highlight {
-    color: #e7d5d0;
+    color: #191970;
 }
 
 .page-container {
@@ -174,7 +174,7 @@ h2 {
 }
 
 .tm-link-white {
-    color: #e7d5d0;
+    color: #191970;
 }
 
 .tm-link-white:hover,
